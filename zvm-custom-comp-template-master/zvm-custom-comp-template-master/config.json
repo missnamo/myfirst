@@ -1,0 +1,16 @@
+{
+  "customComponentItems": {
+    "Count": {
+      "name": "Count",
+      "imagePath": "preview/count.jpeg",
+      "description": "test description, test description, test description",
+      "itemInputs": [
+        {
+          "fieldName": "foo",
+          "type": "TEXT"
+        }
+      ]
+    }
+  },
+  "version": "1.0.2"
+}
