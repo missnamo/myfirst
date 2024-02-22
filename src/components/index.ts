@@ -1,3 +1,3 @@
-import { Count } from './Count';
+import { Count0 } from './Count0';
 
-export default { Count };
+export default { Count0 };
